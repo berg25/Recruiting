@@ -1,0 +1,217 @@
+.background-image{
+     background-color:#ffffff;
+     background-repeat:no-repeat;
+	   background-size:100% 100%;
+     background-image: url(background11.jpg);
+     height:87vh;
+     width:100vw;
+     font-size:40px;
+     font-weight:bold;
+     color:#ffffff;
+     font-style: Bree serif;
+     text-align:center;
+     padding-top: 50px;
+     font-size: 20px;
+  }
+
+
+  .background-image1{
+       background-color:#ffffff;
+       background-repeat:no-repeat;
+  	   background-size:100% 100%;
+       background-image: url(lacrossebackground10.jpg);
+       height:115vh;
+       width:100vw;
+       font-size:40px;
+       font-weight:bold;
+       color:#ffffff;
+       font-style: Bree serif;
+       text-align:center;
+       padding-top: 10px;
+       font-size: 20px;
+}
+
+.background-image2{
+     background-color:#ffffff;
+     background-repeat:no-repeat;
+     background-size:100% 170%;
+     background-image: url(background13.jpg);
+     height:95vh;
+     width:100vw;
+     font-size:40px;
+     font-weight:bold;
+     color:#ffffff;
+     font-style: Bree serif;
+     text-align:center;
+     padding-top: 10px;
+     font-size: 20px;
+}
+
+body{
+  margin:0;
+}
+
+
+h1{
+  color:#ffffff;
+  text-align: center;
+  font: 25px;
+}
+
+
+input{
+  color:black;
+}
+
+
+#gallery{
+         position: relative;
+         height:200px;
+}
+
+
+.container{ width:200px;
+            height:200px;
+            display:flex;
+            justify-content: space-between;
+
+}
+
+
+.content__cta1{
+  display: inline-block;
+  margin: 0;
+  padding: 12px 48px;
+  color: #000000;
+  font-size: 22px;
+  text-decoration: none;
+  border: solid 2px #000000;
+
+}
+
+
+.stats{
+background-color: #ffffff;
+text-align: center;
+flex: column;
+padding-left: 250px;
+}
+
+.stats1{
+  text-align: center;
+  flex: column;
+
+}
+
+.sports{
+  text-align: center;
+  flex: column;
+  background-color: #ffffff;
+  padding-left: 200px;
+}
+
+
+#page-wrapper{
+  background-color: #ffffff;
+  text-align: center;
+  /*display: flex;*/
+  /flex: column;
+}
+
+
+#page-wrapper2{
+  background-color: #ECEFF1;
+  text-align: center;
+  /*display: flex;*/
+  flex: column;
+}
+
+
+#wrapper{
+         font-size:25px;
+         font-weight:bold;
+		     color:#ffffff;
+		     font-style: italic;
+         text-align:center;
+		     margin: auto;
+         width: 60%;
+         padding: 10px;
+}
+
+
+#wrapper2{
+      font-size:25px;
+      font-weight:bold;
+      color:#ffffff;
+      font-style: italic;
+      text-align:center;
+      margin: auto;
+      width: 60%;
+      padding: 10px;
+}
+
+
+.container2{
+      width:200px;
+      height:200px;
+      display:flex;
+      justify-content: space-between;
+      flex-direction:row;
+}
+
+
+.column{
+  display: flex;
+  flex: column;
+  color:#ffffff;
+}
+
+
+.column > *{
+  display: flex;
+}
+
+
+.content__cta {
+  display: inline-block;
+  margin: 0;
+  padding: 12px 48px;
+  color: #ffffff;
+  font-size: 22px;
+  text-decoration: none;
+  border: solid 4px #ffffff;
+}
+
+
+hr{
+  color:black;
+}
+
+
+footer{
+     padding:20px;
+	   font-style: italic;
+	   font-family:"Times New Roman",georgia,serif;
+	   color:#000000;
+     font-size:20px;
+     font-weight:bold;
+     font-style: italic;
+     text-align:center;
+     margin: auto;
+     border-top: gold;
+     background-color: #4A4A4A;
+    }
+
+
+    footer1{
+         padding:20px;
+    	   font-style: italic;
+    	   font-family:"Times New Roman",georgia,serif;
+    	   color:#000000;
+         font-size:20px;
+         font-weight:bold;
+         font-style: italic;
+         text-align:center;
+         margin: auto;
+         border-top: gold;
+}

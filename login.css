@@ -1,0 +1,41 @@
+body{
+     background-color:#ffffff;
+     background-repeat:no-repeat;
+	   background-size:100% 170%;
+     background-image: url(background11.jpg);
+}
+
+
+body{margin:0;
+}
+
+#wrapper{font-size:25px;
+         font-weight:bold;
+		     color:#000000;
+		     font-style: italic;
+         text-align:center;
+		     margin: auto;
+         width: 60%;
+         padding: 10px;
+         }
+
+fieldset{
+  color:#000000;
+}
+legend{
+  color:#ffffff;
+}
+
+form{
+  padding-left: 235px;
+
+}
+.column{
+  display: flex;
+  flex: column;
+  color:#ffffff;
+}
+
+.column > *{
+  display: flex;
+}

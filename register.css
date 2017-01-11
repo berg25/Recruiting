@@ -1,0 +1,27 @@
+.background-image{
+     background-color:#ffffff;
+     background-repeat:no-repeat;
+	   background-size:100% 100%;
+     background-image: url(lacrossebackground9.jpg);
+     height:150vh;
+     width:100vw;
+     font-size:40px;
+     font-weight:bold;
+     color:#ffffff;
+     font-style: Bree serif;
+     text-align:center;
+     padding-top: 50px;
+  }
+
+
+
+  #wrapper2{
+    font-size:25px;
+    font-weight:bold;
+    color:#000000;
+    font-style: italic;
+    text-align:center;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
