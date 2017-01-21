@@ -1,7 +1,7 @@
 .background-image{
      background-color:#ffffff;
      background-repeat:no-repeat;
-	   background-size:100% 100%;
+     background-size:100% 100%;
      background-image: url(background11.jpg);
      height:87vh;
      width:100vw;
@@ -18,7 +18,7 @@
   .background-image1{
        background-color:#ffffff;
        background-repeat:no-repeat;
-  	   background-size:100% 100%;
+       background-size:100% 100%;
        background-image: url(lacrossebackground10.jpg);
        height:115vh;
        width:100vw;
@@ -114,15 +114,13 @@ padding-left: 250px;
 #page-wrapper{
   background-color: #ffffff;
   text-align: center;
-  /*display: flex;*/
-  /flex: column;
+  flex: column;
 }
 
 
 #page-wrapper2{
   background-color: #ECEFF1;
   text-align: center;
-  /*display: flex;*/
   flex: column;
 }
 
@@ -130,10 +128,10 @@ padding-left: 250px;
 #wrapper{
          font-size:25px;
          font-weight:bold;
-		     color:#ffffff;
-		     font-style: italic;
+	 color:#ffffff;
+         font-style: italic;
          text-align:center;
-		     margin: auto;
+	 margin: auto;
          width: 60%;
          padding: 10px;
 }
